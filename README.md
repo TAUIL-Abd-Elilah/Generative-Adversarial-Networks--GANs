@@ -12,6 +12,6 @@ Specifically the key points implemented are:
 1) Progressive growing (of model and layers)
 2) Minibatch std on Discriminator
 3) Normalization with PixelNorm
-4) Equalized Learning Rate (here I cheated and only did it on Conv layers).
+4) Equalized Learning Rate.
 
 Dataset I used in the code: https://www.kaggle.com/datasets/tauilabdelilah/women-clothes
