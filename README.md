@@ -15,3 +15,17 @@ Specifically the key points implemented are:
 4) Equalized Learning Rate.
 
 Dataset I used in the code: https://www.kaggle.com/datasets/tauilabdelilah/women-clothes
+
+
+# StyleGAN
+StyleGAN from the paper: https://arxiv.org/abs/1812.04948 is one of the best GANs today.
+
+In this video I walkthrough the original paper and expain its goals, key components, and how it really works: https://www.youtube.com/watch?v=8HKHj_CYpaE&t=96s
+
+In this video I implemented StyleGAN from scratch in PyTorch to generate fashion https://www.youtube.com/watch?v=X8k96xfZXwo trying to make it compact but a goal is also to keep it readable and understandable.
+Specifically the key points implemented are:
+1) Noice apping network
+2) AdaIN (Adaptive Insctance Normalisation)
+3) Progressice growing
+
+Dataset I used in the code: https://www.kaggle.com/datasets/tauilabdelilah/women-clothes
